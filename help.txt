@@ -1,0 +1,17 @@
+git init
+make the "readme.txt" file
+put in "readme.txt" "change 1"
+git status
+git add <file>
+git status
+git commit
+press I key
+type initial commit
+press esc key
+type :wq
+Type enter
+
+
+Or do steps but clone from git hub instead of git init use git clone https://www.github.com/BB8fan20/<responsatory name>.git
+
+To push to github site use git push -u origin master
